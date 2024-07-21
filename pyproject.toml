@@ -9,6 +9,8 @@ readme = "README.md"
 python = "^3.12"
 selenium = "^4.23.0"
 webdriver-manager = "^4.0.1"
+pyppeteer=">=2.0.0"
+pillow=">=2.2.1"
 
 
 [build-system]

@@ -1,3 +1,8 @@
 .venv
 .venv*
 *.deb
+.log
+.temp
+data
+data*
+.DS_Store
