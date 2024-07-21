@@ -5,7 +5,7 @@ Get snapshoots from live feed. Store as Image slide preview.
 
 
 _**In its Wake**_   
-Encode snapshoot to status label (cat.var.) - bussy, light, free.   
+Encode snapshoot to status label (cat.var.) - busy, light, free.   
 Follow averages (subscribed data usage)  
 
 
